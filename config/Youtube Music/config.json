@@ -1,0 +1,107 @@
+{
+	"window-size": {
+		"width": 746,
+		"height": 598
+	},
+	"window-maximized": false,
+	"window-position": {
+		"x": 292,
+		"y": 46
+	},
+	"options": {
+		"tray": true,
+		"appVisible": true,
+		"autoUpdates": true,
+		"alwaysOnTop": false,
+		"hideMenu": true,
+		"hideMenuWarned": true,
+		"startAtLogin": false,
+		"disableHardwareAcceleration": false,
+		"removeUpgradeButton": true,
+		"restartOnConfigChanges": false,
+		"trayClickPlayPause": false,
+		"autoResetAppCache": false,
+		"resumeOnStart": false,
+		"likeButtons": "force",
+		"proxy": "",
+		"startingPage": "",
+		"overrideUserAgent": false,
+		"usePodcastParticipantAsArtist": false,
+		"themes": []
+	},
+	"plugins": {
+		"notifications": {},
+		"video-toggle": {
+			"mode": "custom",
+			"enabled": false,
+			"hideVideo": true,
+			"forceHide": false,
+			"align": "left"
+		},
+		"precise-volume": {
+			"enabled": false,
+			"steps": 1,
+			"arrowsShortcut": true,
+			"globalShortcuts": {
+				"volumeUp": "",
+				"volumeDown": ""
+			},
+			"savedVolume": 1
+		},
+		"discord": {
+			"enabled": true,
+			"autoReconnect": true,
+			"activityTimeoutEnabled": true,
+			"activityTimeoutTime": 600000,
+			"playOnYouTubeMusic": true,
+			"hideGitHubButton": true,
+			"hideDurationLeft": false,
+			"listenAlong": true
+		},
+		"album-actions": {
+			"enabled": false
+		},
+		"bypass-age-restrictions": {
+			"enabled": true
+		},
+		"skip-silences": {
+			"enabled": false
+		},
+		"synced-lyrics": {
+			"enabled": true,
+			"preciseTiming": true,
+			"showLyricsEvenIfInexact": true,
+			"showTimeCodes": false,
+			"defaultTextString": "♪",
+			"lineEffect": "fancy",
+			"romanization": true
+		},
+		"compact-sidebar": {
+			"enabled": true
+		},
+		"ambient-mode": {
+			"enabled": true
+		},
+		"album-color-theme": {
+			"enabled": true
+		},
+		"downloader": {
+			"enabled": true
+		},
+		"unobtrusive-player": {
+			"enabled": false
+		},
+		"visualizer": {
+			"enabled": false
+		},
+		"disable-autoplay": {
+			"enabled": false,
+			"applyOnce": true
+		}
+	},
+	"__internal__": {
+		"migrations": {
+			"version": "3.10.0"
+		}
+	}
+}
