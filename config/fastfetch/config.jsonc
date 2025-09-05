@@ -37,7 +37,7 @@
         },
         {
             "type": "disk",
-            "key": "└ └ ",
+            "key": "└ └󱩶 ",
             "keyColor": "green"
         },
         {
@@ -51,12 +51,12 @@
         },
         {
             "type": "os",
-            "key": " OS",
+            "key": " OS",
             "keyColor": "yellow"
         },
         {
             "type": "kernel",
-            "key": "│ ├",
+            "key": "│ ├",
             "keyColor": "yellow"
         },
         {
@@ -77,7 +77,7 @@
         "break",
         {
             "type": "de",
-            "key": "  DE",
+            "key": " DE",
             "keyColor": "blue"
         },
         {
