@@ -13,32 +13,32 @@
         "break",
         {
             "type": "custom",
-            "format": "\u001b[90m┌──────────────────────Hardware──────────────────────┐"
+            "format": "\u001b[90m┌──────────────────Hardware──────────────────────┐"
         },
         {
             "type": "host",
             "key": " PC",
-            "keyColor": "green"
+            "keyColor": "red"
         },
         {
             "type": "cpu",
             "key": "│ ├ ",
-            "keyColor": "green"
+            "keyColor": "red"
         },
         {
             "type": "gpu",
             "key": "│ ├󰍛 ",
-            "keyColor": "green"
+            "keyColor": "red"
         },
         {
             "type": "memory",
             "key": "│ ├󰍛 ",
-            "keyColor": "green"
+            "keyColor": "red"
         },
         {
             "type": "disk",
             "key": "└ └󱩶 ",
-            "keyColor": "green"
+            "keyColor": "red"
         },
         {
             "type": "custom",
@@ -47,58 +47,58 @@
         "break",
         {
             "type": "custom",
-            "format": "\u001b[90m┌──────────────────────Software──────────────────────┐"
+            "format": "\u001b[90m┌──────────────────Software──────────────────────┐"
         },
         {
             "type": "os",
-            "key": " OS",
-            "keyColor": "yellow"
+            "key": "󰣇 OS",
+            "keyColor": "red"
         },
         {
             "type": "kernel",
-            "key": "│ ├",
-            "keyColor": "yellow"
+            "key": "│ ├ ",
+            "keyColor": "red"
         },
         {
             "type": "bios",
             "key": "│ ├󰍛 ",
-            "keyColor": "yellow"
+            "keyColor": "red"
         },
         {
             "type": "packages",
             "key": "│ ├󰏖 ",
-            "keyColor": "yellow"
+            "keyColor": "red"
         },
         {
             "type": "shell",
             "key": "└ └ ",
-            "keyColor": "yellow"
+            "keyColor": "red"
         },
         "break",
         {
             "type": "de",
             "key": " DE",
-            "keyColor": "blue"
+            "keyColor": "red"
         },
         {
             "type": "lm",
             "key": "│ ├ ",
-            "keyColor": "blue"
+            "keyColor": "red"
         },
         {
             "type": "wm",
             "key": "│ ├ ",
-            "keyColor": "blue"
+            "keyColor": "red"
         },
         {
             "type": "wmtheme",
             "key": "│ ├󰉼 ",
-            "keyColor": "blue"
+            "keyColor": "red"
         },
         {
             "type": "terminal",
             "key": "└ └ ",
-            "keyColor": "blue"
+            "keyColor": "red"
         },
         {
             "type": "custom",
