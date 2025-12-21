@@ -18,27 +18,27 @@
         {
             "type": "host",
             "key": " PC",
-            "keyColor": "red"
+            "keyColor": "green"
         },
         {
             "type": "cpu",
             "key": "│ ├ ",
-            "keyColor": "red"
+            "keyColor": "green"
         },
         {
             "type": "gpu",
             "key": "│ ├󰍛 ",
-            "keyColor": "red"
+            "keyColor": "green"
         },
         {
             "type": "memory",
             "key": "│ ├󰍛 ",
-            "keyColor": "red"
+            "keyColor": "green"
         },
         {
             "type": "disk",
             "key": "└ └󱩶 ",
-            "keyColor": "red"
+            "keyColor": "green"
         },
         {
             "type": "custom",
@@ -52,53 +52,53 @@
         {
             "type": "os",
             "key": "󰣇 OS",
-            "keyColor": "red"
+            "keyColor": "green"
         },
         {
             "type": "kernel",
             "key": "│ ├ ",
-            "keyColor": "red"
+            "keyColor": "green"
         },
         {
             "type": "bios",
             "key": "│ ├󰍛 ",
-            "keyColor": "red"
+            "keyColor": "green"
         },
         {
             "type": "packages",
             "key": "│ ├󰏖 ",
-            "keyColor": "red"
+            "keyColor": "green"
         },
         {
             "type": "shell",
             "key": "└ └ ",
-            "keyColor": "red"
+            "keyColor": "green"
         },
         "break",
         {
             "type": "de",
             "key": " DE",
-            "keyColor": "red"
+            "keyColor": "green"
         },
         {
             "type": "lm",
             "key": "│ ├ ",
-            "keyColor": "red"
+            "keyColor": "green"
         },
         {
             "type": "wm",
             "key": "│ ├ ",
-            "keyColor": "red"
+            "keyColor": "green"
         },
         {
             "type": "wmtheme",
             "key": "│ ├󰉼 ",
-            "keyColor": "red"
+            "keyColor": "green"
         },
         {
             "type": "terminal",
             "key": "└ └ ",
-            "keyColor": "red"
+            "keyColor": "green"
         },
         {
             "type": "custom",
