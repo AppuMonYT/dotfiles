@@ -130,7 +130,7 @@
             },
             "ClientTheme": {
                 "enabled": true,
-                "color": "29332e"
+                "color": "273623"
             },
             "ColorSighted": {
                 "enabled": false
@@ -211,7 +211,8 @@
                 "enabled": true
             },
             "FixImagesQuality": {
-                "enabled": true
+                "enabled": true,
+                "originalImagesInChat": false
             },
             "FixSpotifyEmbeds": {
                 "enabled": true
@@ -258,7 +259,7 @@
             "ImageZoom": {
                 "enabled": true,
                 "size": 100,
-                "zoom": 1,
+                "zoom": 1.6,
                 "saveZoomValues": true,
                 "nearestNeighbour": false,
                 "square": false,
@@ -606,7 +607,8 @@
                 "enabled": false
             },
             "UnlockedAvatarZoom": {
-                "enabled": true
+                "enabled": true,
+                "zoomMultiplier": 4
             },
             "UnsuppressEmbeds": {
                 "enabled": false
@@ -723,12 +725,12 @@
             "authenticated": false,
             "url": "https://api.vencord.dev/",
             "settingsSync": false,
-            "settingsSyncVersion": 1764536993109
+            "settingsSyncVersion": 1766261712278
         },
         "uiElements": {
             "chatBarButtons": {},
             "messagePopoverButtons": {}
         }
     },
-    "quickCss": ".bar_c38106 {\n    display: none;\n}\n:root {\n    --custom-app-top-bar-height: 5px;\n}\n"
+    "quickCss": ""
 }
