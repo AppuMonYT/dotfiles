@@ -101,6 +101,7 @@ source $ZSH/oh-my-zsh.sh
 #
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
+alias plzupdate="sudo pacman -Syu && flatpak update && yay"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 #fastfetch
-fastfetch --logo-padding-top 2
+fastfetch --file '/home/yenkay/Pictures/THOSe pics/ascii.txt' --logo-color-1 green
